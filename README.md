@@ -28,7 +28,7 @@ This project analyzes coffee sales data using Excel to uncover insights about sa
 ## 🧩 Data Model
 A **Star Schema** was used to structure the data.
 
-![Data Model](Data%Model.png)
+![Data Model](Data_Model.png)
 
 ---
 
