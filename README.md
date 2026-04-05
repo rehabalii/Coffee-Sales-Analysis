@@ -52,7 +52,7 @@ A **Star Schema** was used to structure the data.
 - Top 5 Customers
 - Sales Over Time
 
-![Dashboard](Dashboard.png)
+
 
 ---
 
